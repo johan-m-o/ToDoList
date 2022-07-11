@@ -1,8 +1,15 @@
 # Projects
 ## Project ideas
+In no particular order...
 - [ ] USB microphone
 - [ ] Duplo train control station
-- [ ] Light saber
+- [ ] Lightsaber
+- [ ] Weather station
+- [ ] Multi-room music system
+- [ ] Theremin
+- [ ] Astronomy projector
+- [ ] Cargo trike
+- [ ] Digital photo frame
 
 ## Projects in progress
 - [ ] Puzzle box
