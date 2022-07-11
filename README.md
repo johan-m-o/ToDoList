@@ -9,7 +9,7 @@ In no particular order...
 - [ ] Theremin
 - [ ] Astronomy projector
 - [ ] Cargo trike
-- [ ] Digital photo frame
+- [ ] Digital photo frame (multi/server based)
 
 ## Projects in progress
 - [ ] Puzzle box
