@@ -17,6 +17,6 @@ In no particular order...
 - [ ] Bike tracker update
 
 ## Finished projects
-- [x] Bike tracker
-- [x] Night Time Clock
-- [x] LED pong style game
+- [x] [Bike tracker](https://github.com/johan-m-o/BikeTracker)
+- [x] [Night Time Clock](https://github.com/johan-m-o/NightTimeClock)
+- [x] [LED pong style game](https://github.com/johan-m-o/LEDTennis)
