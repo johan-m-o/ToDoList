@@ -10,6 +10,7 @@ In no particular order...
 - [ ] Astronomy projector
 - [ ] Cargo trike
 - [ ] Digital photo frame (multi/server based)
+- [ ] 3D printer
 
 ## Projects in progress
 - [ ] Puzzle box
