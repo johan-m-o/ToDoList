@@ -11,13 +11,14 @@ In no particular order...
 - [ ] Cargo trike
 - [ ] Digital photo frame (multi/server based)
 - [ ] 3D printer
+- [ ] Plant growing chamber
 
 ## Projects in progress
 - [ ] Puzzle box
 - [ ] Multiplayer LED pong style game
 - [ ] Bike tracker update
 
-## Finished projects
+## Finished (published) projects
 - [x] [Bike tracker](https://github.com/johan-m-o/BikeTracker)
 - [x] [Night Time Clock](https://github.com/johan-m-o/NightTimeClock)
 - [x] [LED pong style game](https://github.com/johan-m-o/LEDTennis)
