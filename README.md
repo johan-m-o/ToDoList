@@ -12,6 +12,7 @@ In no particular order...
 - [ ] Digital photo frame (multi/server based)
 - [ ] 3D printer
 - [ ] Plant growing chamber
+- [ ] Dice casting
 
 ## Projects in progress
 - [ ] Puzzle box
