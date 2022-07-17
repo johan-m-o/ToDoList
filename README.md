@@ -13,6 +13,7 @@ In no particular order...
 - [ ] 3D printer
 - [ ] Plant growing chamber
 - [ ] Dice casting
+- [ ] Submarine
 
 ## Projects in progress
 - [ ] Puzzle box
