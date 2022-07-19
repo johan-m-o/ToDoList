@@ -14,6 +14,7 @@ In no particular order...
 - [ ] Plant growing chamber
 - [ ] Dice casting
 - [ ] Submarine
+- [ ] Water gun
 
 ## Projects in progress
 - [ ] Puzzle box
