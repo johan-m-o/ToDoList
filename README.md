@@ -15,6 +15,7 @@ In no particular order...
 - [ ] Dice casting
 - [ ] Submarine
 - [ ] Water gun
+- [ ] Self-driving suitcase
 
 ## Projects in progress
 - [ ] Puzzle box
