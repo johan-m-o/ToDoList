@@ -16,6 +16,7 @@ In no particular order...
 - [ ] Submarine
 - [ ] Water gun
 - [ ] Self-driving suitcase
+- [ ] Mechanical shopping list (https://twitter.com/DrPopCultureBG/status/1556087401277186051?s=20&t=x26XvyEQ_NXknxV6zBOm7Q)
 
 ## Projects in progress
 - [ ] Puzzle box
