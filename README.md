@@ -19,6 +19,7 @@ In no particular order...
 - [ ] Mechanical shopping list (https://twitter.com/DrPopCultureBG/status/1556087401277186051?s=20&t=x26XvyEQ_NXknxV6zBOm7Q)
 - [ ] LED necklace
 - [ ] Tensegrity chair
+- [ ] Moon phase visualiser
 
 ## Projects in progress
 - [ ] Puzzle box
