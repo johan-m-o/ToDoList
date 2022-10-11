@@ -20,6 +20,7 @@ In no particular order...
 - [ ] LED necklace
 - [ ] Tensegrity chair
 - [ ] Moon phase visualiser
+- [ ] Mood/party LED strips. Individually controllable, but also extendable by attaching to eachother.
 
 ## Projects in progress
 - [ ] Puzzle box
