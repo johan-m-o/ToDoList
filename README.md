@@ -21,6 +21,7 @@ In no particular order...
 - [ ] Tensegrity chair
 - [ ] Moon phase visualiser
 - [ ] Mood/party LED strips. Individually controllable, but also extendable by attaching to eachother.
+- [ ] Air guitar
 
 ## Projects in progress
 - [ ] Puzzle box
