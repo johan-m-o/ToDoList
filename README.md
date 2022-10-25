@@ -22,6 +22,7 @@ In no particular order...
 - [ ] Moon phase visualiser
 - [ ] Mood/party LED strips. Individually controllable, but also extendable by attaching to eachother.
 - [ ] Air guitar
+- [ ] Magic mirror
 
 ## Projects in progress
 - [ ] Puzzle box
