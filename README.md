@@ -23,7 +23,7 @@ In no particular order...
 - [ ] Mood/party LED strips. Individually controllable, but also extendable by attaching to eachother.
 - [ ] Air guitar
 - [ ] Magic mirror
-- [ ] 3D printed orrery
+- [ ] 3D printed orrery (https://www.instructables.com/Orrery-a-Mechanical-Solar-System-Model-From-Plywoo/, http://brassorrery.blogspot.com, https://www.instructables.com/Solar-System-Orrery-3D-Printed/)
 
 ## Projects in progress
 - [ ] Puzzle box
