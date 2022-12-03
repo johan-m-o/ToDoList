@@ -23,6 +23,7 @@ In no particular order...
 - [ ] Mood/party LED strips. Individually controllable, but also extendable by attaching to eachother.
 - [ ] Air guitar
 - [ ] Magic mirror
+- [ ] 3D printed orrery
 
 ## Projects in progress
 - [ ] Puzzle box
